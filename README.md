@@ -2,9 +2,9 @@
 Ethernet-CAN converter (Development board) based on STM32F407
 
 This is open-source project that includes PCB-design files and part of firmware for CNCU-01 board.
-PCB-design was developed using Altium Designer 17 and Firmware is based on LwIP stack and FreeRTOS was developed using 'C' with Keil uVision 5.
+PCB-design was developed using Altium Designer 17 and Firmware is based on STM HAL driver, LwIP stack and FreeRTOS and was developed with 'C' using Keil uVision 5 and STMCubeMX.
 
-NOTE: Firmware is under development. Now it supports main board's modules features + web interface but no application logic.
+NOTE: Firmware is under development. Now it supports main board's modules features (HAL) + simple web interface but no application layer.
 
 # Board supports:
 - RTC
