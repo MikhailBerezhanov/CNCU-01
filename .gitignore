@@ -1,0 +1,16 @@
+*.pdf
+*.jpg
+*.png
+*.bmp
+*.eps
+*.gif
+ETH_CAN_converter/History
+libs/History
+src_codes/*.rar
+src_codes/*.zip
+src_codes/STM32F407VE.ioc
+src_codes/F407VE_Ethernet/MDK-ARM/F407VE_Ethernet/*
+src_codes/F407VE_Ethernet/MDK-ARM/F407VE_Ethernet.uvguix.*
+ETH_CAN_converter/__Previews
+ETH_CAN_converter/Project Outputs for ETH_CAN_converter/__Previews/
+ETH_CAN_converter/Project Logs for ETH_CAN_converter/

@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ETH_CAN_converter.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 14:53:03 On 27.05.2019
