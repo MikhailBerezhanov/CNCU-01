@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [ETH_CAN_converter.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ETH_CAN_converter.PrjPcb]
+   Generated File[ETH_CAN.TXT]
+   Generated File[ETH_CAN.LDP]
+   Generated File[ETH_CAN.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 14:53:03 On 27.05.2019
+Finished Output Generation At 13:07:13 On 26.08.2019
