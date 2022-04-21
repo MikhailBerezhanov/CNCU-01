@@ -4,13 +4,13 @@
 *.bmp
 *.eps
 *.gif
-pcb_design/History
+pcb/History
 libs/History
-src_codes/*.rar
-src_codes/*.zip
-src_codes/STM32F407VE.ioc
-src_codes/CNCU_Firmware/MDK-ARM/Output/*
-src_codes/CNCU_Firmware/MDK-ARM/cncu.uvguix.*
-pcb_design/__Previews
-pcb_design/Project Outputs for ETH_CAN_converter/__Previews/
-pcb_design/Project Logs for ETH_CAN_converter/
+src/*.rar
+src/*.zip
+src/STM32F407VE.ioc
+src/CNCU_Firmware/MDK-ARM/Output/*
+src/CNCU_Firmware/MDK-ARM/cncu.uvguix.*
+pcb/__Previews
+pcb/Project Outputs for ETH_CAN_converter/__Previews/
+pcb/Project Logs for ETH_CAN_converter/
