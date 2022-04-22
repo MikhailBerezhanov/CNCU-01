@@ -1,7 +1,7 @@
 # CNCU-01
 ### Ethernet-CAN converter board based on STM32F407
 
-([Learn more about this project](https://habr.com/ru/users/ClownMik/posts/))
+([Learn more about this project](https://habr.com/ru/post/464043/))
 
 ![3D_model](https://hsto.org/webt/9c/j9/x_/9cj9x_lrqkpkajyzd6irhhqkfmu.jpeg)
 
